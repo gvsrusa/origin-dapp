@@ -9,6 +9,10 @@ export default defineMessages({
     id: 'schema.tickets.title',
     defaultMessage: 'Title'
   },
+  'schema.tickets.examples': {
+    id: 'schema.tickets.examples',
+    defaultMessage: 'Examples'
+  },
   'schema.tickets.category': {
     id: 'schema.tickets.category',
     defaultMessage: 'Category'
@@ -27,7 +31,7 @@ export default defineMessages({
   },
   'schema.tickets.priceInETH': {
     id: 'schema.tickets.priceInETH',
-    defaultMessage: 'Price in ETH',
+    defaultMessage: 'Price in ETH'
   },
   'schema.tickets.selectPhotos': {
     id: 'schema.tickets.selectPhotos',
@@ -72,5 +76,25 @@ export default defineMessages({
   'schema.tickets.tradeshow': {
     id: 'schema.tickets.tradeshow',
     defaultMessage: 'Tradeshow'
+  },
+  'schema.tickets.packageItem': {
+    id: 'schema.tickets.packageItem',
+    defaultMessage: 'Package the tickets'
+  },
+  'schema.tickets.shipItem': {
+    id: 'schema.tickets.shipItem',
+    defaultMessage: 'Ship the tickets to the buyer'
+  },
+  'schema.tickets.messageBuyer': {
+    id: 'schema.tickets.messageBuyer',
+    defaultMessage: 'Message the buyer with an update'
+  },
+  'schema.tickets.rateBuyer': {
+    id: 'schema.tickets.rateBuyer',
+    defaultMessage: 'Give the buyer a review'
+  },
+  'schema.tickets.sellerSteps': {
+    id: 'schema.tickets.sellerSteps',
+    defaultMessage: 'Fulfillment Checklist'
   }
 })

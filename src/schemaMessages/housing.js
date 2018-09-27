@@ -9,6 +9,10 @@ export default defineMessages({
     id: 'schema.housing.title',
     defaultMessage: 'Title'
   },
+  'schema.housing.examples': {
+    id: 'schema.housing.examples',
+    defaultMessage: 'Examples'
+  },
   'schema.housing.category': {
     id: 'schema.housing.category',
     defaultMessage: 'Category'
@@ -23,7 +27,7 @@ export default defineMessages({
   },
   'schema.housing.priceInETH': {
     id: 'schema.housing.priceInETH',
-    defaultMessage: 'Price in ETH',
+    defaultMessage: 'Price in ETH'
   },
   'schema.housing.selectPhotos': {
     id: 'schema.housing.selectPhotos',
@@ -76,5 +80,25 @@ export default defineMessages({
   'schema.housing.vacationRentals': {
     id: 'schema.housing.vacationRentals',
     defaultMessage: 'Vacation Rentals'
+  },
+  'schema.housing.sendInfo': {
+    id: 'schema.housing.sendInfo',
+    defaultMessage: 'Send the address, access info, etc.'
+  },
+  'schema.housing.ensureCleanliness': {
+    id: 'schema.housing.ensureCleanliness',
+    defaultMessage: 'Ensure that the unit is clean'
+  },
+  'schema.housing.messageBuyer': {
+    id: 'schema.housing.messageBuyer',
+    defaultMessage: 'Message the buyer with an update'
+  },
+  'schema.housing.rateBuyer': {
+    id: 'schema.housing.rateBuyer',
+    defaultMessage: 'Give the buyer a review'
+  },
+  'schema.housing.sellerSteps': {
+    id: 'schema.housing.sellerSteps',
+    defaultMessage: 'Fulfillment Checklist'
   }
 })

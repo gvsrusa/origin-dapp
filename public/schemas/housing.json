@@ -10,6 +10,15 @@
       "minLength": 3,
       "maxLength": 100
     },
+    "examples": {
+      "type": "string",
+      "title": "schema.housing.examples",
+      "enum": [
+        "schema.housing.aptsHousingForRent",
+        "schema.housing.roomsShares",
+        "schema.housing.vacationRentals"
+      ]
+    },
     "category": {
       "type": "string",
       "title": "schema.housing.category",
@@ -50,6 +59,16 @@
         "type": "string",
         "format": "data-url"
       }
+    },
+    "sellerSteps": {
+      "type": "string",
+      "title": "schema.housing.sellerSteps",
+      "enum": [
+        "schema.housing.sendInfo",
+        "schema.housing.ensureCleanliness",
+        "schema.housing.messageBuyer",
+        "schema.housing.rateBuyer"
+      ]
     }
   }
 }

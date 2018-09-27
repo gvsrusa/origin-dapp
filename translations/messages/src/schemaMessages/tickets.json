@@ -8,6 +8,10 @@
     "defaultMessage": "Title"
   },
   {
+    "id": "schema.tickets.examples",
+    "defaultMessage": "Examples"
+  },
+  {
     "id": "schema.tickets.category",
     "defaultMessage": "Category"
   },
@@ -70,5 +74,25 @@
   {
     "id": "schema.tickets.tradeshow",
     "defaultMessage": "Tradeshow"
+  },
+  {
+    "id": "schema.tickets.packageItem",
+    "defaultMessage": "Package the tickets"
+  },
+  {
+    "id": "schema.tickets.shipItem",
+    "defaultMessage": "Ship the tickets to the buyer"
+  },
+  {
+    "id": "schema.tickets.messageBuyer",
+    "defaultMessage": "Message the buyer with an update"
+  },
+  {
+    "id": "schema.tickets.rateBuyer",
+    "defaultMessage": "Give the buyer a review"
+  },
+  {
+    "id": "schema.tickets.sellerSteps",
+    "defaultMessage": "Fulfillment Checklist"
   }
 ]

@@ -9,6 +9,10 @@ export default defineMessages({
     id: 'schema.transportation.title',
     defaultMessage: 'Title'
   },
+  'schema.transportation.examples': {
+    id: 'schema.transportation.examples',
+    defaultMessage: 'Examples'
+  },
   'schema.transportation.category': {
     id: 'schema.transportation.category',
     defaultMessage: 'Category'
@@ -23,7 +27,7 @@ export default defineMessages({
   },
   'schema.transportation.priceInETH': {
     id: 'schema.transportation.priceInETH',
-    defaultMessage: 'Price in ETH',
+    defaultMessage: 'Price in ETH'
   },
   'schema.transportation.selectPhotos': {
     id: 'schema.transportation.selectPhotos',
@@ -52,5 +56,21 @@ export default defineMessages({
   'schema.transportation.yachtCharters': {
     id: 'schema.transportation.yachtCharters',
     defaultMessage: 'Yacht Charters'
+  },
+  'schema.transportation.messageBuyer': {
+    id: 'schema.transportation.messageBuyer',
+    defaultMessage: 'Message the buyer with any relevant details'
+  },
+  'schema.transportation.provideService': {
+    id: 'schema.transportation.provideService',
+    defaultMessage: 'Provide your transportation service to the buyer'
+  },
+  'schema.transportation.rateBuyer': {
+    id: 'schema.transportation.rateBuyer',
+    defaultMessage: 'Give the buyer a review'
+  },
+  'schema.transportation.sellerSteps': {
+    id: 'schema.transportation.sellerSteps',
+    defaultMessage: 'Fulfillment Checklist'
   }
 })
